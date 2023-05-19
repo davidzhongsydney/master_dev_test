@@ -1,1 +1,2 @@
-file ini
+override by f2
+something written by f2
